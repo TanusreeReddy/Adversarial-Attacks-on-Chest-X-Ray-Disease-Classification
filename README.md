@@ -116,3 +116,13 @@ Apostolidis, A., et al. A survey on adversarial deep learning robustness in medi
 ## ⚠️ Disclaimer
 
 This project is for academic and research purposes only and is not intended for clinical or diagnostic use.
+
+## 🔹 `requirements.txt`
+
+```txt
+torch
+torchvision
+numpy
+matplotlib
+scikit-learn
+opencv-python
