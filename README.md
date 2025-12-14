@@ -91,10 +91,28 @@ The results show a **monotonic decline in accuracy** as attack strength increase
 - Strong attacks render the model nearly unusable.
 - Adversarial images appear visually similar to clean images but cause drastic prediction changes.
 
----
+Open the notebook:
+
+  Adversarial_Attacks_ChestXray.ipynb
+
+Run all cells in Google Colab or a local PyTorch environment
+
+## 📚 References
+
+Ma, Z., Wang, Y., et al. Understanding adversarial attacks on deep learning based medical image analysis systems. Pattern Recognition, 2021.
+
+Qin, X., et al. Towards evaluating the robustness of deep diagnostic models by adversarial attack. Medical Image Analysis, 2021.
+
+Bortsova, G., et al. Adversarial attack vulnerability of medical image analysis systems. Medical Image Analysis, 2021.
+
+Apostolidis, A., et al. A survey on adversarial deep learning robustness in medical image analysis. Electronics, 2021.
 
 ## 🚀 How to Run
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/Adversarial-Attacks-ChestXray.git
+
+## ⚠️ Disclaimer
+
+This project is for academic and research purposes only and is not intended for clinical or diagnostic use.
